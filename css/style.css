@@ -1,0 +1,203 @@
+
+.container {
+    background-color: #fff;
+}
+
+.navbar-nav {
+    margin-left: auto;
+}
+
+.hedir {
+    padding-top: 140px;
+}
+
+.hedir h1 {
+    font-size: 50px; 
+}
+
+.btn1 {
+    padding: 5px 25px;
+    border-radius: 40px;
+}
+
+.img1 {
+    width: 100%;
+}
+
+.box1 {
+    background-image: url(../images/Background.png);
+}
+
+.box1 h2 {
+    padding-top: 100px;
+    font-size: 40px;
+}
+
+.text {
+    padding: 7%;
+}
+
+.text1 {
+    background-image: url(../images/Background.png);
+}
+
+.box3 {
+    padding: 4%;
+    text-align: center;
+}
+
+.mycard {
+    background-color: #fff;
+    border: 1px solid #fff;
+    text-align: center;
+    width: 280px;
+    height: 400px;
+    margin: 8% auto;
+}
+
+.text2 {
+    text-align: center;
+}
+
+.text2 p {
+    padding: 15px;
+}
+
+img {
+    max-width: 100%;
+}
+
+.users {
+    text-align: center;
+}
+ 
+.hedir1{
+    padding: 4%;
+    text-align: center;
+}
+
+.mycard1 {
+    background-color: #fff;
+    border: 1px solid #fff;
+    text-align: center;
+    width: 270px;
+    height: 330px;
+    margin: 8% auto;
+}
+
+.mycard2 {
+    width: 210px;
+    height: 300px;
+    border: 3px solid  #EEEEEE;
+    text-align: center;
+    padding: 20px;
+    margin: 10% 6%;
+}
+
+.mycard2 h5 {
+    padding: 8px;
+}
+
+.bg1 {
+    margin: 5px;
+    color: rgb(202, 48, 48);
+    transition: 1s;
+    font-size: 20px;
+}
+
+.bg1:hover {
+    transform: translateY(15px);
+}
+ 
+.appl {
+    padding: 35px;
+    text-align: center;
+}
+
+.mycard4 {
+    border: 2px solid rgb(204, 201, 201);
+    max-width: 770px;
+    max-height: 330px;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+
+.mycard5 {
+    border: 2px solid rgb(204, 201, 201);
+    max-width: 570px;
+    max-height: 271px;
+    text-align: center;
+    padding: 10px;
+    margin: 15px;
+}
+
+.div {
+    display: flex;
+    padding: 10px;
+}
+
+.larch {
+    color: #F25822;
+}
+
+.slick-next:before {
+    content: '→';
+    color: rgb(189, 32, 40);
+}
+
+.slick-prev::before {
+    content: "←";
+    color: rgb(189, 32, 40);
+}
+
+.mycard4 img {
+    border-radius: 20px;
+}
+
+.logo {
+    margin: 5px;
+}
+
+.text4 {
+    padding: 15px;
+    background-image: url(../images/Background.png);
+}
+
+.blu {
+    display: flex;
+}
+
+.width{
+    width: 40%;
+}
+
+.span {
+    text-align: center;
+    padding: 5px;
+}
+
+h1, h2 {
+    font-family: 'Cabin', sans-serif;
+}
+
+p {
+    font-family: 'Raleway', sans-serif;
+}
+
+.contact {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 15px;
+}
+
+.navbar-nav a {
+    font-family: 'Raleway', sans-serif;
+}
+
+@media(max-width: 768px){
+    .blu {
+        display: block;
+    }
+    
+}
