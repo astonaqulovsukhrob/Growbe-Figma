@@ -172,6 +172,7 @@ img {
 
 .blu {
     display: flex;
+    gap: 5px;
 }
 
 .width{
